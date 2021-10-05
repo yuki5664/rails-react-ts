@@ -4,7 +4,7 @@ rails react typescriptの学習用
 
 dockerをbuild
 ```
-docker build
+docker compose build
 ```
 
 コンテナの立ち上げ
