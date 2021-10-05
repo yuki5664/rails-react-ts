@@ -11,3 +11,8 @@ docker compose build
 ```
 docker compose up
 ```
+
+フロントのローカルサーバーを確認(react)
+```
+localhost:8000
+```
